@@ -1,0 +1,4 @@
+/home/martongy/pastel_ws/repos/wdm/wdm/example/bin/CMakeFiles/rebuild_cache.dir
+/home/martongy/pastel_ws/repos/wdm/wdm/example/bin/CMakeFiles/main.dir
+/home/martongy/pastel_ws/repos/wdm/wdm/example/bin/CMakeFiles/edit_cache.dir
+/home/martongy/pastel_ws/repos/wdm/wdm/example/bin/CMakeFiles/module_name_example.dir

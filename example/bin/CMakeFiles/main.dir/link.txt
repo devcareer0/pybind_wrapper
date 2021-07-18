@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -O2 -DNDEBUG  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main  -Wl,-rpath,/home/martongy/anaconda3/lib /home/martongy/anaconda3/lib/libpython3.8.so 

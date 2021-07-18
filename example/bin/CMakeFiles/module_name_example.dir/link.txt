@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -O2 -DNDEBUG -flto -shared  -o module_name_example.cpython-38-x86_64-linux-gnu.so CMakeFiles/module_name_example.dir/main.cpp.o 
